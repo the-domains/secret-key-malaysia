@@ -1,6 +1,6 @@
 name: Secret Key Malaysia
 favicon: null
-layout_spectrum: 0.3918923845048994
+layout_spectrum: 0.91997
 typography_spectrum: 0.9934261192101985
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.5328236627392471
   lightness: 0.047756762243807316
-  saturation: 0.9844662032555789
+  saturation: 0.5
   rhythmicContrast: 0.6699634806718677
 purpose: []
